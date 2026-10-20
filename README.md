@@ -9,4 +9,4 @@
 
 ## Capturas de Pantalla (Evidencia de Funcionamiento)
 
-![Login](screenshots/login.png)
+![Login](screenshots/Login.png)
