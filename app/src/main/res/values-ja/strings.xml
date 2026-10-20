@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">プラクティカ3</string>
+    <string name="materia">モバイルアプリ開発</string>
+    <string name="nombre">ヘスス・エリ</string>
+    <string name="apellido">サンチェス・ルバルカバ</string>
+    <string name="home_screen">Inicio</string>
+    <string name="back_btn_desc">Regresar</string>
+    <string name="bottom_app_bar">Barra inferior</string>
+    <string name="home_fab_text">Texto home</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica3</string>
+    <string name="materia">Desarrollo de aplicaciones moviles</string>
+    <string name="nombre">Jesús Elí</string>
+    <string name="apellido">Sánchez Ruvalcaba</string>
+    <string name="home_screen">Inicio</string>
+    <string name="back_btn_desc">Regresar</string>
+    <string name="bottom_app_bar">Barra inferior</string>
+    <string name="home_fab_text">Texto home</string>
+</resources>
