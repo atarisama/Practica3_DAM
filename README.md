@@ -10,3 +10,7 @@
 ## Capturas de Pantalla (Evidencia de Funcionamiento)
 
 ![Login](screenshots/Login.png)
+![Main](screenshots/Main.png)
+![Like](screenshots/Like.png)
+![SnackBar](screenshots/SnackBar.png)
+![Horizontal](screenshots/Horizontal.png)
